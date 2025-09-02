@@ -1,4 +1,9 @@
 # parcial2-api-mern
 
+<<<<<<< HEAD
 Primer parrafo del README......
 Segundo parrafo del README...
+=======
+Primer parrafo del README
+Segundo parrafo del README......
+>>>>>>> a788cd7096946de2afcaf6834821325f91dab9ab
